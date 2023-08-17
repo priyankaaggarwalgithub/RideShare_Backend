@@ -1,4 +1,4 @@
-# INSTACAR
+# RIDESHARE BACKEND
 
 ## Technology Stack:
 ### Backend
